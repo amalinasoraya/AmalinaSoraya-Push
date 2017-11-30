@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "485922865050",
+    "firebase_url": "https://amalinapush-3ea16.firebaseio.com",
+    "project_id": "amalinapush-3ea16",
+    "storage_bucket": "amalinapush-3ea16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485922865050:android:ac1a33899f47dde3",
+        "android_client_info": {
+          "package_name": "com.example.amalinasoraya.amalinasoraya_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485922865050-ge23pfr6lhpeondjaj06ifpg00h3p1ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBK4wnQyRWBHLHvyaab3nXbViioOhu9o8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
